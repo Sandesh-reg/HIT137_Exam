@@ -1,0 +1,3 @@
+plate,owner,vehicle_type,bay,entry,exit,fee
+B1,John,Motorbike,small,2026-10-26T09:00:00,2026-10-26T11:00:00,3.00
+B2,Mary,Motorbike,standard,2026-10-26T09:00:00,2026-10-26T11:00:00,3.00
